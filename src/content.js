@@ -1,9 +1,9 @@
 const productData = [
     {
       id: 1,
-      name: "MASSDROP X SENNHEISER HD 6XX HEADPHONES",
+      name: "Adidas",
       image:
-        "https://massdrop-s3.imgix.net/product-images/massdrop-sennheiser-hd6xx/FP/cJolRuxYSgqdFtmFawp8_yJ6M80CfTZGYMcNKc5of_0cYrqmTrQFOf4cbRVO6t_H6xx%20Reshoot32572.png?auto=format&fm=jpg&fit=fill&w=300&h=300&bg=f0f0f0&fill=solid&fill-color=f0f0f0&dpr=1&q=70",
+        "https://yandex.ru/images/search?ih=500&iw=500&text=кроссовки&pos=1&isize=eq&rpt=simage&img_url=https%3A%2F%2Fae01.alicdn.com%2Fkf%2FHTB1aTlRSFXXXXaWaXXXq6xXFXXXp%2F-.jpg&from=tabbar&lr=62",
       productType: "openBackHeadphones",
       price: 220,
       rating: 5,
@@ -12,9 +12,9 @@ const productData = [
     },
     {
       id: 2,
-      name: "DROP + SENNHEISER PC38X GAMING HEADSET",
+      name: "AIRMAX",
       image:
-        "https://massdrop-s3.imgix.net/product-images/drop-sennheiser-pc38x-gaming-headset/FP/CeH9BYVoTniYOsScfzZ0_PC.png?auto=format&fm=jpg&fit=fill&w=300&h=300&bg=f0f0f0&fill=solid&fill-color=f0f0f0&dpr=1&q=70",
+        "https://yandex.ru/images/search?ih=500&iw=500&text=кроссовки&pos=9&isize=eq&rpt=simage&img_url=https%3A%2F%2Fae01.alicdn.com%2Fkf%2FHTB12JNxLXXXXXb.XFXXq6xXFXXX2%2FLed-luminous-Shoes-For-Boys-girls-Fashion-Light-Up-Casual-kids-7-Colors-Outdoor-new-simulation.jpg&from=tabbar&lr=62",
       productType: "openBackHeadphones",
       price: 169,
       rating: 5,
@@ -23,9 +23,9 @@ const productData = [
     },
     {
       id: 3,
-      name: "MASSDROP X SENNHEISER HD 58X JUBILEE HEADPHONES",
+      name: "nike",
       image:
-        "https://massdrop-s3.imgix.net/product-images/massdrop-x-sennheiser-hd-58x-jubilee-headphones/FP/jbCgVcPdRXZC1YRI2oZ3_3qKeFvWGRbQ3wreRhIVc_58x_clear.png?auto=format&fm=jpg&fit=fill&w=300&h=300&bg=f0f0f0&fill=solid&fill-color=f0f0f0&dpr=1&q=70",
+        "https://yandex.ru/images/search?ih=500&iw=500&text=кроссовки&pos=17&isize=eq&rpt=simage&img_url=https%3A%2F%2Fsun9-53.userapi.com%2Fimpf%2FmFJWdplb6qoWI0r7lcglEkE1J41GS9DSxIzjFg%2Fb2ye1CMohoI.jpg%3Fsize%3D474x455%26quality%3D96%26sign%3D9f5230df36d1574226cbe5ce5299d692%26c_uniq_tag%3D2aCM3wkSZQh-7s2kHoVI6JhA-gFkx53Ls-_Gkl1gFvU%26type%3Dalbum&from=tabbar&lr=62",
       productType: "openBackHeadphones",
       price: 170,
       rating: 4,
